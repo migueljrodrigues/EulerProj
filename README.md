@@ -1,2 +1,2 @@
-# EulerProj
-EulerProj solutions
+# EulerProj 
+https://projecteuler.net/archives
